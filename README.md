@@ -39,3 +39,5 @@ Here is an example of what your program should look like when executed. User inp
     
 ➢ Comment your code appropriately, including an introductory comment at the beginning 
 of the main program.
+
+This was made using CLion IDE 
